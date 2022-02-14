@@ -1,2 +1,2 @@
 # Graph_ML
-Social Network Analysis and Machine Learning on Graphs course assignments
+Social network analysis and machine learning on graphs course assignments
